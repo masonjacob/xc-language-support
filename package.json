@@ -2,7 +2,12 @@
     "name": "xc-code-highlighting",
     "displayName": "xc code highlighting",
     "description": "Syntax highlighting for xmos .xc files",
+    "publisher": "MasonJacob",
     "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/masonjacob/xc-language-support.git"
+    },
     "engines": {
         "vscode": "^1.65.0"
     },
